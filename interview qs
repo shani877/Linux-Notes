@@ -95,4 +95,31 @@ File System & Storage
 35. How do you find out which directory is consuming the most in /var?
 
 ===============
+Accenture Interview Experience 
+Position: DevOps Engineer
+
+𝐑𝐨𝐮𝐧𝐝 𝟏 & 𝟐 – 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐃𝐞𝐞𝐩 𝐃𝐢𝐯𝐞 
+1. Tell me about yourself.
+2. ⁠How your day to day activities as a DevOps Engineer.
+3. ⁠What are NAT gateway?
+4. ⁠What are pre-requisites to upgrade K8s cluster?
+5. ⁠What in Pod Disruption Budget (PDB) in K8s?
+6. ⁠Write a shell script on factorial of a number.
+7. ⁠Tell me about the VPC structure setup in your project.
+8. ⁠How is the CI/CD pipeline is setup in your project? What are the security tools integrated?
+9. ⁠How do you manage them? 
+10. ⁠Write a rough pipeline script for microservices architecture. 
+11. ⁠What is multi stage docker build?
+12. ⁠What are manifest files?
+13. ⁠What is Ansible Vault?
+14. ⁠How do we make a K8s cluster highly available? 
+15. ⁠What monitoring tools are setup ? Have you set the alerts and tell me some common errors you faced related to pod management..
+16. ⁠Write a terraform script for VPC architecture for production.
+17. ⁠How many objects can a S3 bucket can store?
+18. ⁠What are IAM roles and policies?
+19. ⁠⁠What are artifacts? 
+20. ⁠What are SATS and DATS?
+21. ⁠How do you find errors in the pipelines?
+22. ⁠What are Ansible Roles?
+================================
 
