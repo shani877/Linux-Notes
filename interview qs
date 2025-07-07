@@ -122,4 +122,46 @@ Position: DevOps Engineer
 21. ⁠How do you find errors in the pipelines?
 22. ⁠What are Ansible Roles?
 ================================
+1. How would you troubleshoot an EC2 instance that is unreachable (e.g., cannot SSH in)? What AWS features and logs would you check?
+
+2. How do you secure access to EC2 instances? Consider aspects like SSH key pairs, Security Groups, IAM roles, and bastion hosts.
+
+3. What is the difference between an EC2 instance store volume and an EBS volume? When might you choose one over the other?
+
+4. How can you connect to an EC2 instance in a private subnet with no public IP address?
+
+5. What is an AWS VPC and why is it important for AWS deployments?
+
+6. How do Security Groups differ from Network ACLs in a VPC? When would you use each?
+
+7. Your application runs in a private subnet but needs to reach the internet (e.g., to download updates). What AWS service do you configure to enable outbound internet access?
+
+8. How can you connect resources in two different VPCs or accounts so they can communicate securely?
+
+9. What is AWS IAM and why is it crucial for AWS operations?
+
+10. What's the difference between an IAM user, group, and role? When would you use an IAM role?
+
+11. What is Amazon CloudWatch, and what types of metrics or logs can it collect?
+
+12. How do you set up a CloudWatch alarm to notify you if an EC2 instance's CPU usage remains above a threshold?
+
+13. What is Amazon S3, and what are common use cases for it in cloud operations?
+
+14. How do you secure data in an S3 bucket? Explain bucket policies, ACLs, and IAM permissions for S3.
+
+15. What is Amazon RDS, and how does it differ from running a database on EC2?
+
+16. How do you ensure high availability and backups for an RDS database instance? (Hint: Multi-AZ, read replicas, snapshots)
+
+17. How does an AWS Elastic Load Balancer work? What are the differences between an Application Load Balancer and a Network Load Balancer?
+
+18. Describe how an Auto Scaling group works. How do you configure it to handle changes in traffic load?
+
+19. What is Amazon Route 53 and how can it improve application availability (e.g., using health checks and routing policies)?
+
+20. When would you use a Route 53 Alias record instead of a CNAME record? What advantages does it offer?
+
+===================
+
 
